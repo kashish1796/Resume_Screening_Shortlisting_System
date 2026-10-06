@@ -1,8 +1,0 @@
-streamlit
-pandas
-scikit-learn
-xgboost
-joblib
-pypdf
-python-docx
-openai
